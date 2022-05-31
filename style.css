@@ -115,7 +115,7 @@ a {
   height: 20rem;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(./images/image-hero-mobile.png);
+  background-image: url(image-hero-mobile.png);
 }
 
 .background img {
@@ -243,7 +243,7 @@ li {
   .background {
     background-size: cover;
     height: 100%;
-    background-image: url(./images/image-hero-desktop.png);
+    background-image: url(image-hero-desktop.png);
   }
   .text-content {
     align-items: flex-start;
